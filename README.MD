@@ -4,6 +4,6 @@
 # Stars
 Multiple Background Animation
 
-<a href="" target="_blank">
+<a href="https://multiple-bg-stars.netlify.app" target="_blank">
     <img src="./img/screen.jpg" alt="Project preview">
 </a>
